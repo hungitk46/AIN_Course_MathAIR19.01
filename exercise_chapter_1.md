@@ -1,25 +1,33 @@
-# Câu hỏi:
+**Câu 1: Trí tuệ là gì? Đọc thêm bài viết 9 loại trí thông minh, có thể xem thêm bài giảng của Ted Ed và làm quiz (tiếng Anh).**
 
-   1. Trí tuệ là gì? Đọc thêm bài viết 9 loại trí thông minh, có thể xem thêm bài giảng của Ted Ed và làm quiz (tiếng Anh). 
+Trí tuệ là khả năng học và áp dụng các kiến thức, kỹ năng trong cuộc sống. Trong cuộc sống là tập hợp các kiến thức và kỹ năng có được theo thời gian.
 
-   2. Trí tuệ nhân tạo (artificial intelligence, AI) là gì? Những tiến bộ nào góp phần dẫn đến cuộc cách mạng AI?
+Có 9 loại trí thông minh bao gồm:
+1. Vận động: Khả năng trí não điều khiển các hoạt động thể chất
+2. Ngôn ngữ: Khả năng sử dụng ngôn ngữ để diễn đạt
+3. Nội tâm: Khả năng nắm bắt tâm lý, cảm xúc của bản thân
+4. Không gian: Khả hình dung được không gian 3 chiều xung quanh, như khả năng nhớ lộ trình đường đi, khả năng hình dung được phương hướng, địa hình một cách nhanh chóng
+5. Tự nhiên: Khả năng khám phá, tìm hiểu về thiên nhiên, các sinh vật trong tự nhiên
+6. Âm nhạc: Khả năng cảm nhận được các âm điệu, cao độ và nhịp điệu âm thanh
+7. Logic-Toán học: Khả năng xem xét vấn đề một cách logic, biện chứng, các giả thuyết chứng minh toán học, chứng minh các mệnh đề, định lý.
+8. Hiện sinh: Khả năng tìm hiểu các vấn đề với các câu hỏi tại sao?
+9. Hướng ngoại: Năng lực làm việc với những người khác, có khả năng tạo cảm hứng, dẫn dắt người khác. Hiểu được tâm lý của người khác.
 
-   3. Học là gì? Học máy (machine learning; ML) là gì? Vị trí của ML trong AI? Kiến thức kỹ năng có thể được biểu diễn trong máy tính ra sao?
+**Câu 2: Trí tuệ nhân tạo (artificial intelligence, AI) là gì? Những tiến bộ nào góp phần dẫn đến cuộc cách mạng AI?**
 
 
-# Câu trả lời:
-
+**Câu 3: Học là gì? Học máy (machine learning; ML) là gì? Vị trí của ML trong AI? Kiến thức kỹ năng có thể được biểu diễn trong máy tính ra sao?**
 
 
 **Câu 4: Các thành phần cơ bản (TEFPA như trong bài giảng) cần được mô tả và cung cấp để máy tính tự học cách giải quyết một tác vụ là gì?**
 
-TEFPA là từ viết tắt của 5 bước
+TEFPA là từ viết tắt của 5 bước:
 
 1. **Task (T)** : mô tả tác vụ, đầu vào và đầu ra của ứng dụng
 2. **Experience (E)** : tập dữ liệu thể hiện của tác vụ. Là tập hợp các bộ dữ liệu đầu vào và đầu ra trong thực tế.
 3. **Function Space (F)** : không gian các hàm số
 4. **Perfomance Measure (P)** : Đánh giá chất lượng, kết quả
-5. **Search Algorithm (A)** : Tìm kiếm thuật toán. Tìm kiếm hàm biểu diễn
+5. **Search Algorithm (A)** : Tìm kiếm thuật toán. Tìm kiếm hàm biểu diễn sao cho dữ liệu đưa vào qua hàm tìm kiếm được cho đầu ra có kết quả gần nhất với dữ liệu thực tế.
 
 
 **Câu 5. Mô tả tác vụ, kinh nghiệm/ dữ liệu cần chuẩn bị một số ứng dụng**
