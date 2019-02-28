@@ -21,7 +21,20 @@ Ví dụ: kỹ năng nhận biết qua các giác quan (persection). Ví dụ nh
 
 **Câu 3: Học là gì? Học máy (machine learning; ML) là gì? Vị trí của ML trong AI? Kiến thức kỹ năng có thể được biểu diễn trong máy tính ra sao?**
 
-Học là quá trình thu thập kỹ năng thông qua `trải nghiệm`, giáo dục và nghiên cứu.
+Học là quá trình thu thập kỹ năng thông qua `trải nghiệm`, giáo dục và nghiên cứu. Quá trình học có thể chia thành 6 bước cơ bản bao gồm:
+
+1. Quan sát
+2. Đặt giả thuyết
+3. Làm thí nghiệm, thử thực hành
+4. Phân tích dữ liệu, cảm nhận.
+5. Học và báo cáo, tự đánh giá.
+6. Chia sẻ kiến thức, hướng dẫn trao đổi với người khác về vấn đề mình suy nghĩ thông qua ngôn ngữ, cử chỉ.
+
+Học máy sẽ tập trung vào 3 bước ở trên bao gồm các bước (3, 4, 5):
+
+3. Làm thí nghiệm
+4. Phân tích dữ liệu
+5. Học và báo cáo
 
 Như chúng ta đã biết mọi kiến thức kỹ năng trong cuộc sống đều có thể được biểu diễn thành một hàm số. Như vậy kiến thức kỹ năng trong máy tính được biểu diễn 1 hàm số. Việc học máy chính là quá trình thu thập kiến thức kỹ năng để tìm ra hàm số đấy. Do việc tìm hàm số có thể đạt kết quả có thể chính là hàm số biểu diễn kỹ năng đấy hoặc là gần giống nhất với kỹ năng đấy. Chính vì thế kiến thức kỹ năng trong được biểu diễn trong máy tính được gọi là `hàm ẩn tối ưu`.
 
@@ -80,4 +93,8 @@ Như chúng ta đã biết, mọi kiến thức đều có thể được biểu
 
 **Câu 7: Hai vấn đề chính về không gian hàm mà ta cần đặc biệt chú ý để giúp máy tính tự tìm kiếm hàm có độ khái quát hoá cao là gì?**
 
+Hai vấn đề chính trong về không gian hàm số chính là:
+
+1. Biểu diễn (`representation`) không gian hàm 
+2. Tìm kiếm/huấn luyện (search, train, learn, optimize).
 
