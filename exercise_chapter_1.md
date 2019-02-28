@@ -15,9 +15,15 @@ Có 9 loại trí thông minh bao gồm:
 
 **Câu 2: Trí tuệ nhân tạo (artificial intelligence, AI) là gì? Những tiến bộ nào góp phần dẫn đến cuộc cách mạng AI?**
 
+Trí tuệ nhân tạo (AI) là máy tính có một số `chức năng` giống trí tuệ con người. Như vậy AI là khả năng học và áp dụng kỹ năng.
+
+Ví dụ: kỹ năng nhận biết qua các giác quan (persection). Ví dụ như đưa vào một hình ảnh, sẽ đưa ra kết quả của hình ảnh đấy. Đây là khả năng `nhìn` của con người. Một ví dụ khác, đưa vào một đoạn văn, phát âm thanh đọc đoạn văn đấy. Đấy là khả năng `đọc` của con người.
 
 **Câu 3: Học là gì? Học máy (machine learning; ML) là gì? Vị trí của ML trong AI? Kiến thức kỹ năng có thể được biểu diễn trong máy tính ra sao?**
 
+Học là quá trình thu thập kỹ năng thông qua `trải nghiệm`, giáo dục và nghiên cứu.
+
+Như chúng ta đã biết mọi kiến thức kỹ năng trong cuộc sống đều có thể được biểu diễn thành một hàm số. Như vậy kiến thức kỹ năng trong máy tính được biểu diễn 1 hàm số. Việc học máy chính là quá trình thu thập kiến thức kỹ năng để tìm ra hàm số đấy. Do việc tìm hàm số có thể đạt kết quả có thể chính là hàm số biểu diễn kỹ năng đấy hoặc là gần giống nhất với kỹ năng đấy. Chính vì thế kiến thức kỹ năng trong được biểu diễn trong máy tính được gọi là `hàm ẩn tối ưu`.
 
 **Câu 4: Các thành phần cơ bản (TEFPA như trong bài giảng) cần được mô tả và cung cấp để máy tính tự học cách giải quyết một tác vụ là gì?**
 
