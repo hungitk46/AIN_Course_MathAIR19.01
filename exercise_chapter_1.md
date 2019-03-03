@@ -2,7 +2,7 @@
 
 Trí tuệ là khả năng học và áp dụng các kiến thức, kỹ năng trong cuộc sống. Trong cuộc sống là tập hợp các kiến thức và kỹ năng có được theo thời gian.
 
-Có 9 loại trí thông minh bao gồm:
+# Có 9 loại trí thông minh bao gồm:
 1. Vận động: Khả năng trí não điều khiển các hoạt động thể chất
 2. Ngôn ngữ: Khả năng sử dụng ngôn ngữ để diễn đạt
 3. Nội tâm: Khả năng nắm bắt tâm lý, cảm xúc của bản thân
